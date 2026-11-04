@@ -94,7 +94,7 @@ The system aims to reduce manual work, improve record accuracy, and make pharmac
 ### Open Questions
 
 - **Q-01:** Should the system support different user roles with separate access permissions?
-- **Q-02:** Should the system generate automatic alerts when medicine stock becomes low?
+- **Q-02:** What minimum stock quantity should trigger an automatic low-stock alert, and should this threshold be configurable by the pharmacy administrator?
 - **Q-03:** Should the system maintain medicine expiry dates and notify staff about expired medicines?
 - **Q-04:** Which database and operating environment will be used for the final implementation?
 
